@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tips & Tricks | Garden & Ground</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header>
+        <div class="header-content">
+            <h1>Garden & Ground</h1>
+            <p class="tagline">Beautiful landscapes you can create yourself.</p>
+
+            <nav>
+                <a href="index.html">Home</a>
+                <a href="how-to.html">How-To Guides</a>
+                <a href="tips.html">Tips & Tricks</a>
+                <a href="inspiration.html">Design Inspiration</a>
+            </nav>
+        </div>
+    </header>
+
+
+    <main>
+
+        <section class="page-heading">
+            <h2>Tips & Tricks</h2>
+
+            <p>
+                Smart landscaping does not have to mean expensive landscaping.
+                A little planning can save money and create better results. As plants grow and spread, they can be divided and moved to fill gaps or create new arrangements.
+            </p>
+        </section>
+
+
+        <section class="tips-container">
+
+            <article class="tip">
+                <h3>1. Start with a plan</h3>
+
+                <p>
+                    One of the most expensive DIY mistakes is buying plants
+                    before creating a plan. Measure your yard and sketch where
+                    major features such as patios, paths, trees, and garden
+                    beds will go before shopping. Take your time; it doesn't all have to be planted out at once.
+                </p>
+            </article>
+
+
+            <article class="tip">
+                <h3>2. Buy smaller plants</h3>
+
+                <p>
+                    Large plants provide instant impact, but smaller plants are
+                    usually much less expensive. Many shrubs and perennials
+                    grow quickly once established, making smaller plants a
+                    smart choice for budget-conscious gardeners.
+                </p>
+            </article>
+
+
+            <article class="tip">
+                <h3>3. Repeat plants</h3>
+
+                <p>
+                    Avoid buying one of every plant that catches your eye.
+                    Repeating the same plants throughout a landscape creates
+                    rhythm and makes the design feel intentional.
+                </p>
+            </article>
+
+
+            <article class="tip">
+                <h3>4. Think about mature size</h3>
+
+                <p>
+                    That tiny shrub at the garden center may eventually become
+                    six feet wide. Check the mature height and width before
+                    planting so you do not have to move or remove plants later.
+                </p>
+            </article>
+
+
+            <article class="tip">
+                <h3>5. Invest in structure first</h3>
+
+                <p>
+                    Paths, trees, patios, hedges, and larger shrubs form the
+                    structure of a landscape. Establish those elements first,
+                    then add decorative plants and accessories over time.
+                </p>
+            </article>
+
+
+            <article class="tip">
+                <h3>6. Divide the project into phases</h3>
+
+                <p>
+                    You do not need to finish your entire yard in one summer.
+                    Completing one well-planned section at a time can make a
+                    large project much more affordable and manageable. Remeber to enjoy the process.
+                </p>
+            </article>
+
+        </section>
+
+    </main>
+
+
+    <footer>
+        <p>&copy; 2026 Jenni's Garden & Ground Landscape Design</p>
+    </footer>
+
+</body>
+
+</html>

@@ -1,0 +1,120 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>How-To Guides | Garden & Ground</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header>
+        <div class="header-content">
+            <h1>Garden & Ground</h1>
+            <p class="tagline">Beautiful landscapes you can create yourself.</p>
+
+            <nav>
+                <a href="index.html">Home</a>
+                <a href="how-to.html">How-To Guides</a>
+                <a href="tips.html">Tips & Tricks</a>
+                <a href="inspiration.html">Design Inspiration</a>
+            </nav>
+        </div>
+    </header>
+
+
+    <main>
+
+        <section class="page-heading">
+            <h2>How-To Guides</h2>
+
+            <p>
+                My simple instructions for homeowners who want to tackle their own
+                landscape and hardscape projects.
+            </p>
+        </section>
+
+
+        <section class="article-grid">
+
+            <article class="article-card">
+                <img src="images/patio.jpg"
+                     alt="DIY stone patio in a backyard">
+
+                <h3>How to Plan a DIY Patio</h3>
+
+                <p>
+                    Before buying pavers or digging into the yard, decide how
+                    you want to use the space. Consider furniture, walking
+                    paths, drainage, and how the patio will connect to your
+                    home and garden.
+                </p>
+
+                <h4>Basic steps</h4>
+
+                <ol>
+                    <li>Measure the area.</li>
+                    <li>Mark the patio shape.</li>
+                    <li>Choose your paving material.</li>
+                    <li>Prepare and level the base.</li>
+                    <li>Install the pavers.</li>
+                </ol>
+            </article>
+
+
+            <article class="article-card">
+                <img src="images/garden-path.jpg"
+                     alt="Garden pathway surrounded by plants">
+
+                <h3>How to Create a Garden Path</h3>
+
+                <p>
+                    A garden path does more than move people through the yard.
+                    It can create structure and lead the eye toward important
+                    areas of the landscape. You should think about how to create a little mystery and intrigue by using curves, changes in elevation, and unexpected plantings.
+                </p>
+
+                <h4>Before you begin</h4>
+
+                <p>
+                    Walk through your yard and notice the routes people already
+                    naturally take. Those routes are often the best locations
+                    for permanent pathways.
+                </p>
+            </article>
+
+
+            <article class="article-card">
+                <img src="images/garden-border.jpg"
+                     alt="Layered garden border with shrubs and flowers">
+
+                <h3>How to Build a Layered Garden Bed</h3>
+
+                <p>
+                    Professional-looking garden beds often use plants of
+                    different heights. Place taller shrubs toward the back,
+                    medium plants in the middle, and shorter plants along the
+                    front edge.
+                </p>
+
+                <p>
+                    Repeating several plants throughout the bed creates a more
+                    organized design than planting one of everything. Repeating colors along the bed gives the eye a place to rest.
+                </p>
+            </article>
+
+        </section>
+
+    </main>
+
+
+    <footer>
+        <p>&copy; 2026 Jenni's Garden & Ground Landscape Design</p>
+    </footer>
+
+</body>
+
+</html>

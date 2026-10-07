@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Design Inspiration | Garden & Ground</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header>
+        <div class="header-content">
+            <h1>Garden & Ground</h1>
+            <p class="tagline">Beautiful landscapes you can create yourself.</p>
+
+            <nav>
+                <a href="index.html">Home</a>
+                <a href="how-to.html">How-To Guides</a>
+                <a href="tips.html">Tips & Tricks</a>
+                <a href="inspiration.html">Design Inspiration</a>
+            </nav>
+        </div>
+    </header>
+
+
+    <main>
+
+        <section class="page-heading">
+            <h2>Design Inspiration</h2>
+
+            <p>
+                Beautiful landscapes usually combine strong structure,
+                thoughtful plant choices, and a few simple design principles.
+                Use these ideas as a starting point for your own yard.
+            </p>
+        </section>
+
+
+        <section class="inspiration-grid">
+
+            <article class="inspiration-card">
+                <img src="images/garden-border.jpg"
+                     alt="Traditional garden border">
+
+                <h3>Layered Garden Borders</h3>
+
+                <p>
+                    Combine evergreen shrubs, flowering perennials, and
+                    ornamental grasses at different heights to create depth
+                    and year-round interest.
+                </p>
+            </article>
+
+
+            <article class="inspiration-card">
+                <img src="images/garden-path.jpg"
+                     alt="Natural garden path">
+
+                <h3>Natural Garden Paths</h3>
+
+                <p>
+                    Gravel, brick, stepping stones, and natural stone can help
+                    connect different areas of the yard while adding character
+                    to the landscape.
+                </p>
+            </article>
+
+
+            <article class="inspiration-card">
+                <img src="images/patio.jpg"
+                     alt="Garden patio surrounded by greenery">
+
+                <h3>Outdoor Garden Rooms</h3>
+
+                <p>
+                    Treat a patio like an outdoor room. Use plants, hedges,
+                    containers, or trellises to create boundaries and make the
+                    space feel cozy and intentional.
+                </p>
+            </article>
+
+
+            <article class="inspiration-card">
+                <img src="images/garden-home.jpg"
+                     alt="Landscaped home with trees and shrubs">
+
+                <h3>Classic Curb Appeal</h3>
+
+                <p>
+                    Simple foundation plantings, repeated shrubs, a defined
+                    walkway, and one or two focal plants can transform the
+                    appearance of a home's entrance.
+                </p>
+            </article>
+
+        </section>
+
+    </main>
+
+
+    <footer>
+        <p>&copy; 2026 Jenni's Garden & Ground Landscape Design</p>
+    </footer>
+
+</body>
+
+</html>
