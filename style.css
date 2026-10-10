@@ -1,8 +1,9 @@
-
-
-* {
+{
+    margin: 0;
+    padding: 0;
     box-sizing: border-box;
 }
+
 
 body {
     margin: 0;
@@ -30,7 +31,7 @@ header {
 
 header h1 {
     font-family: Georgia, "Times New Roman", serif;
-    font-size: 42px;
+    font-size: 2.5rem;
     margin: 0;
     letter-spacing: 1px;
 }
@@ -81,7 +82,7 @@ h4 {
 }
 
 p {
-    font-size: 16px;
+    font-size: 1rem;
 }
 
 
@@ -107,7 +108,7 @@ p {
 }
 
 .hero h2 {
-    font-size: 44px;
+    font-size: 2.75rem;
     line-height: 1.2;
     margin-top: 0;
 }
@@ -142,7 +143,7 @@ p {
 }
 
 .intro h2 {
-    font-size: 34px;
+    font-size: 2.125rem;
 }
 
 
@@ -162,7 +163,7 @@ p {
 }
 
 .feature-card h3 {
-    font-size: 24px;
+    font-size: 1.5rem;
 }
 
 .feature-card a {
@@ -185,7 +186,7 @@ p {
 }
 
 .page-heading h2 {
-    font-size: 42px;
+    font-size: 2.625rem;
     margin-bottom: 10px;
 }
 
@@ -266,21 +267,3 @@ footer {
 
 
 
-@media (max-width: 700px) {
-
-    .hero {
-        flex-direction: column;
-    }
-
-    .hero img {
-        width: 100%;
-    }
-
-    .feature-grid,
-    .article-grid,
-    .tips-container,
-    .inspiration-grid {
-        grid-template-columns: 1fr;
-    }
-
-}
